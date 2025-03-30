@@ -16,30 +16,17 @@ This is a full-stack **Blog Management System** built using **Node.js, Express, 
 ## 📂 Folder Structure
 blog-api/ │-- controllers/ │-- models/ │-- routes/ │-- middleware/ │-- config/ │-- .env (excluded) │-- server.js │-- package.json │-- README.md
 
-markdown
-Copy
-Edit
-
 ## 🏗️ Installation
 
 1. **Clone the repository**  
 git clone https://github.com/neerajd03/Blog-Management-System.git
 
-markdown
-Copy
-Edit
 2. **Navigate to the project folder**  
 cd blog-api
 
-markdown
-Copy
-Edit
 3. **Install dependencies**  
 npm install
 
-markdown
-Copy
-Edit
 4. **Set up environment variables**  
 - Create a `.env` file and add:  
   ```
@@ -48,10 +35,6 @@ Edit
   ```
 5. **Start the server**  
 node server.js
-
-pgsql
-Copy
-Edit
 
 ## 📌 API Endpoints
 | Method | Endpoint            | Description                     |
@@ -70,5 +53,4 @@ Edit
 
 ---
 
-💡 **Contributions are welcome!** Feel free to fork and contribute to this project. 🚀  
-📩 For any queries, reach out to me on **GitHub**: [neerajd03](https://github.com/neerajd03).
+💡 **Contributions are welcome!** Feel free to fork and contribute to this project. 🚀
